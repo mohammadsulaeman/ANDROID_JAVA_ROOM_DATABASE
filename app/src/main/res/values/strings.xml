@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UniversitasKu</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="alamat">Alamat</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="prodi">Prodi</string>
+    <string name="jekel">Jenis Kelamin</string>
+    <string name="add_students">Add</string>
+    <string name="update_students">Update</string>
+    <string name="delete_students">Delete</string>
+    <string name="empty_not_saved">Students not saved because it is empty.</string>
+</resources>
